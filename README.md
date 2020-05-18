@@ -57,7 +57,7 @@ Both of these challenges encompasses a real-world situation where your newfound 
 
 * In this challenge, you are tasked with helping a small, rural town modernize its vote-counting process. (Up until now, Uncle Cleetus had been trustfully tallying them one-by-one, but unfortunately, his concentration isn't what it used to be.)
 
-* You will be give a set of poll data called [election_data.csv](PyPoll/Resources/election_data.csv). The dataset is composed of three columns: `Voter ID`, `County`, and `Candidate`. Your task is to create a Python script that analyzes the votes and calculates each of the following:
+* You will be given a set of poll data called [election_data.csv](PyPoll/Resources/election_data.csv - note this file uploaded to GITHUB in ZIP file due to the size and the file must be unzipped into the PyPoll/Resources/ folder prior to running the script). The dataset is composed of three columns: `Voter ID`, `County`, and `Candidate`. Your task is to create a Python script that analyzes the votes and calculates each of the following:
 
   * The total number of votes cast
 
